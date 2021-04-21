@@ -15,6 +15,7 @@ public class GITHUB {
         nomb = n.nextLine();
         SepararIniciales(nomb);
         System.out.println("Nombre completo: " +nomb);
+        //dddddddd
         
     }
     public static void SepararIniciales (String name){
